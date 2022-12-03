@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-navbar/static/css/main.26b52912.css",
+    "main.js": "/React-navbar/static/js/main.8e14f624.js",
+    "static/media/Trojan_logo.svg": "/React-navbar/static/media/Trojan_logo.654a485a112c42807d838c1ef0938ac0.svg",
+    "index.html": "/React-navbar/index.html",
+    "main.26b52912.css.map": "/React-navbar/static/css/main.26b52912.css.map",
+    "main.8e14f624.js.map": "/React-navbar/static/js/main.8e14f624.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26b52912.css",
+    "static/js/main.8e14f624.js"
+  ]
+}
